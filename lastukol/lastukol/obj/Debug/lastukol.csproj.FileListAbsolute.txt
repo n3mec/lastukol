@@ -1,0 +1,10 @@
+D:\prg\lastukol\lastukol\bin\Debug\lastukol.exe.config
+D:\prg\lastukol\lastukol\bin\Debug\lastukol.exe
+D:\prg\lastukol\lastukol\bin\Debug\lastukol.pdb
+D:\prg\lastukol\lastukol\obj\Debug\lastukol.csproj.AssemblyReference.cache
+D:\prg\lastukol\lastukol\obj\Debug\lastukol.Minimum.resources
+D:\prg\lastukol\lastukol\obj\Debug\lastukol.Properties.Resources.resources
+D:\prg\lastukol\lastukol\obj\Debug\lastukol.csproj.GenerateResource.cache
+D:\prg\lastukol\lastukol\obj\Debug\lastukol.csproj.CoreCompileInputs.cache
+D:\prg\lastukol\lastukol\obj\Debug\lastukol.exe
+D:\prg\lastukol\lastukol\obj\Debug\lastukol.pdb
